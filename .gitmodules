@@ -1,0 +1,3 @@
+[submodule "genericQueueC"]
+	path = genericQueueC
+	url = git@github.com:CharlesHerbig/genericQueueC.git
